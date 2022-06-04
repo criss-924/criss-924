@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Criss :D</h1>
+<h1 align="center">Hi 👋, I'm Criss</h1>
 <h3 align="center">A girl tireless to gain new knowledge</h3>
 
 
-
+### ✨ Quick Facts
 
 - 👨‍💻 All of my projects are available at [https://shecodingcom.wordpress.com](https://shecodingcom.wordpress.com)
 
