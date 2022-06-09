@@ -30,6 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=criss-924&" alt="criss-924" /></p>
 
-Invite me a coffee :)
-<h3 align="left">Support:</h3>
+
+<h3 align="left">Invite me a coffee :)</h3>
 <p><a href="https://www.buymeacoffee.com/https://ko-fi.com/criss924"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://ko-fi.com/criss924" /></a></p><br><br>
