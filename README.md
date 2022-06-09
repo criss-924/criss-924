@@ -25,10 +25,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://ko-fi.com/criss924"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://ko-fi.com/criss924" /></a></p><br><br>
 
-
+<fieldset>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=criss-924&show_icons=true&locale=en&layout=compact" alt="criss-924" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=criss-924&show_icons=true&locale=en" alt="criss-924" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=criss-924&" alt="criss-924" /></p>
+
+</fieldset>
