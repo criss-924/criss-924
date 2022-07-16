@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Criss :D</h1>
 <h3 align="center">A Data and coding girl</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=criss-924" alt="criss-924" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/criss_924" target="blank"><img src="https://img.shields.io/twitter/follow/criss_924?logo=twitter&style=for-the-badge" alt="criss_924" /></a> </p>
 
