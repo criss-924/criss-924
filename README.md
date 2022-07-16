@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Criss :D</h1>
 <h3 align="center">A Data and coding girl</h3>
 
-
-<p align="left"> <a href="https://twitter.com/criss_924" target="blank"><img src="https://img.shields.io/twitter/follow/criss_924?logo=twitter&style=for-the-badge" alt="criss_924" /></a> </p>
-
 - 🔭 I’m currently working on **code for health**
 
 - 👨‍💻 All of my projects are available at [https://criss-portfolio.netlify.app/](https://criss-portfolio.netlify.app/)
