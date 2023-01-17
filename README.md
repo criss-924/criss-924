@@ -1,4 +1,3 @@
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/95699000/172013220-c9d7ef68-7676-4890-8392-cf019a949802.gif" />
 
 <h1 align="center">Hi 👋, I'm Criss :D</h1>
 <h3 align="center">A Data and coding girl</h3>
