@@ -2,15 +2,6 @@
 <h1 align="center">Hi 👋, I'm Criss :D</h1>
 <h3 align="center">A Data and coding girl</h3>
 
-- 🔭 I’m currently working on **code for health**
-
-- 👨‍💻 All of my projects are available at [https://criss-portfolio.netlify.app/](https://criss-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://shecodingcom.wordpress.com](https://shecodingcom.wordpress.com)
-
-- 📫 How to reach me **criss.diaz.924@gmail.com**
-
-- ⚡ Fun fact **I am also a medical doctor :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
