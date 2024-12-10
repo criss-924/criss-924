@@ -13,8 +13,4 @@
 </p>
 
 
-<h3 align="left">Invite me a coffee :)</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kdi992a"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kdi992a" /></a><a href="https://ko-fi.com/https://ko-fi.com/criss924"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/criss924" /></a></p><br></br>
-
-
 
